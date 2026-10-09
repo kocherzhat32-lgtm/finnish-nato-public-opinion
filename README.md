@@ -42,14 +42,6 @@ This portfolio project analyzes multi-year institutional microdata to track the 
 
 ---
 
-🚀 How to Run the Analysis
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/finnish-nato-public-opinion.git](https://github.com/your-username/finnish-nato-public-opinion.git)
-```
-
----
-
 ## 👩‍💻 Author
 
 **Oksana Kocherzhat**  
