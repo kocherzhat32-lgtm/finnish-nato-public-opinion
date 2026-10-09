@@ -38,3 +38,21 @@ This portfolio project analyzes multi-year institutional microdata to track the 
 ├── Evolution of Finnish Defense Sentiment (2020–2025).pptx     # Final slide deck (.pptx)
 ├── README.md                                                   # Project documentation
 └── finland_security_opinion_analysis.ipynb                     # Jupyter Notebook with full data pipeline and analysis
+```
+
+---
+
+🚀 How to Run the Analysis
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/finnish-nato-public-opinion.git](https://github.com/your-username/finnish-nato-public-opinion.git)
+```
+
+---
+
+## 👩‍💻 Author
+
+**Oksana Kocherzhat**  
+Data Analyst (OAMK)  
+📍 Finland  
+🔗 LinkedIn: https://www.linkedin.com/in/oksana-kocherzhat-834518231
